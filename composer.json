@@ -50,6 +50,7 @@
     "wpackagist-plugin/wp-force-ssl": "*",
     "wpackagist-plugin/backupwordpress": "*",
     "wpackagist-plugin/wordpress-gzip-compression": "*"
+    "wpackagist-plugin/yoast-seo": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
